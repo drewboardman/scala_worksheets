@@ -1,0 +1,30 @@
+INFO     <2018-01-29 16:38:57,211> (client.py:83) - Initializing project - /home/drew/work/scala_coursera/worksheers
+WARNING  <2018-01-29 16:38:59,219> (protocol.py:65) - Response has not been handled: 
+{u'implementation': {u'name': u'ENSIME'},
+ u'typehint': u'ConnectionInfo',
+ u'version': u'1.9.6'}
+INFO     <2018-01-29 16:39:01,633> (typecheck.py:27) - Readying typecheck...
+WARNING  <2018-01-29 16:39:02,220> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'ClearAllScalaNotesEvent'}
+WARNING  <2018-01-29 16:39:02,221> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'VoidResponse'}
+INFO     <2018-01-29 16:39:19,988> (typecheck.py:27) - Readying typecheck...
+WARNING  <2018-01-29 16:39:20,236> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'ClearAllScalaNotesEvent'}
+WARNING  <2018-01-29 16:39:21,237> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'VoidResponse'}
+INFO     <2018-01-29 16:39:52,458> (typecheck.py:27) - Readying typecheck...
+WARNING  <2018-01-29 16:39:53,260> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'ClearAllScalaNotesEvent'}
+WARNING  <2018-01-29 16:39:53,261> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'VoidResponse'}
+INFO     <2018-01-29 16:40:09,664> (typecheck.py:27) - Readying typecheck...
+WARNING  <2018-01-29 16:40:10,271> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'ClearAllScalaNotesEvent'}
+WARNING  <2018-01-29 16:40:10,271> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'VoidResponse'}
+INFO     <2018-01-29 16:40:28,660> (typecheck.py:27) - Readying typecheck...
+WARNING  <2018-01-29 16:40:29,284> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'ClearAllScalaNotesEvent'}
+WARNING  <2018-01-29 16:40:29,284> (protocol.py:65) - Response has not been handled: 
+{u'typehint': u'VoidResponse'}
